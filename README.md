@@ -1,0 +1,2 @@
+# AfreetechTest
+AfreetechTest Practical test
